@@ -1,0 +1,5 @@
+// https://unpkg.com/pokemons@1.1.0/pokemons.json
+
+// https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/${formatPokemonName(pokemon.name.toLowerCase())}.png
+// https://img.pokemondb.net/artwork/${formatPokemonName(pokemon.name.toLowerCase())}.jpg
+// https://img.pokemondb.net/sprites/black-white/anim/normal/${formatPokemonName(pokemon.name.toLowerCase())}.gif

@@ -1,0 +1,3 @@
+// https://pokeapi.co/api/v2/pokemon/bulbasaur
+
+//https://pokeapi.co/api/v2/pokemon/${formatPokemonName(name)}
